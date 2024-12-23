@@ -1,0 +1,13 @@
+.container{
+    position: relative;
+}
+
+
+.btns{
+    margin-right: 20%;
+    margin-bottom: 2%;
+}
+
+.nobtn{
+    position: absolute;
+}
